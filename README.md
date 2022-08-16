@@ -2,7 +2,7 @@
 
 Predicting the Sale Price of Bulldozers using Machine Learning.
 
-A very didactic notebook composed of:
+A very didactic notebook following the guidance of a data science course composed of:
 * exploration
 * modelling
 * categorizing
